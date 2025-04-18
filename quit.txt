@@ -1,1 +1,1 @@
-quit please
+fortune
